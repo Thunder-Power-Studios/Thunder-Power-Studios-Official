@@ -26,3 +26,14 @@ p {
 .button:hover {
   background-color:grey;
   color: yellow;
+  
+hr {
+background-color:grey;
+border-color: yellow;
+height: 2px;  
+margin-bottom: 7px;  
+margin-right: auto;  
+margin-left: auto;  
+margin-top: 9px;  
+border-width: 4px; 
+}
