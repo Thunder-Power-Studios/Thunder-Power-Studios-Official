@@ -1,0 +1,34 @@
+label {
+border: 1px inset #0076ff;
+border-radius: 5px;
+background: #428bca;
+color: #fff;
+padding-left: 4px;
+padding-right: 4px;
+margin-right: 3px;
+}
+
+textarea {
+background-color: #f3f3f3; /* changing background-color */
+color:black; /* changing the text color */
+border: none; /* removing border */
+outline: none; /* removing outline */
+resize: none; /* disabling the resize functionality */
+}
+
+button {
+border: none;
+background: #0076ff;
+border-radius: 5px;
+padding: 5px;
+color: #fff;
+font-weight: bold;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+body {
+background-color:yellow;
+}
+
+<link rel="stylesheet" href="form.css"> 
