@@ -1,5 +1,5 @@
 body {
-	background-color:grey;
+  background-color:grey;
   color:yellow;
 }
 h3 {
@@ -28,6 +28,6 @@ p {
 	color: yellow;
 }
 
-.hidden { 
-	font-size: 0; 
+h {
+  visibility: hidden;
 }
