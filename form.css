@@ -9,11 +9,10 @@ margin-right: 3px;
 }
 
 textarea {
-background-color: #f3f3f3; /* changing background-color */
-color:black; /* changing the text color */
-border: none; /* removing border */
-outline: none; /* removing outline */
-resize: none; /* disabling the resize functionality */
+background-color: #f3f3f3;
+color:black;
+border:Solid black;
+outline: none;
 }
 
 button {
