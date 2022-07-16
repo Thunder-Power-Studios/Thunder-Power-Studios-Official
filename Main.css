@@ -9,7 +9,7 @@ p {
   font-family:source code pro;
 }
 
-.button {
+button {
   background-color: Yellow;
   border: 10 px solid black;
   color:grey;
@@ -23,7 +23,7 @@ p {
   cursor: pointer;
 }
 
-.button:hover {
+button:hover {
 	background-color:grey;
 	color: yellow;
 }
