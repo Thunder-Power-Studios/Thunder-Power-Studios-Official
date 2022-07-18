@@ -29,3 +29,43 @@ button:hover {
 	background-color:grey;
 	color: yellow;
 }
+
+.github{
+background-color:Black;
+color:White;
+}
+
+.github:hover {
+background-color:White;
+color:Black;
+}
+
+.twitter{
+background-color:Blue;
+color:White;
+}
+
+.twitter:hover {
+background-color:White;
+color:Blue;
+}
+
+.instagram{
+background-color:Pink;
+color:White;
+}
+
+.instagram:hover {
+background-color:White;
+color:Pink;
+}
+
+.reddit{
+background-color:Red;
+color:White;
+}
+
+.reddit:hover {
+background-color:White;
+color:Red;
+}
