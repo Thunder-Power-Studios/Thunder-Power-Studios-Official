@@ -8,65 +8,6 @@ h3 {
 p {
   	font-family:source code pro;
 }
-button {
-  	background-color: Yellow;
-  	border: 10 px solid black;
-  	color:grey;
-  	padding: 16px 32px;
-  	text-align: center;
-  	text-decoration: none;
-  	display: inline-block;
-  	font-size: 16px;
-  	margin: 4px 2px;
-  	transition-duration: 0.4s;
-  	cursor: pointer;
-  	border-radius: 10px;
-  	text-transform: uppercase;
-}
-button:hover {
-	background-color:grey;
-	color: yellow;
-}
-.github{
-	background-color:Black;
- 	color:White;
-}
-.github:hover {
-	background-color:White;
-	color:Black;
-}
-.twitter{
-	background-color:Blue;
-	color:White;
-}
-.twitter:hover {
-	background-color:White;
-	color:Blue;
-}
-.instagram{
-	background-color:Pink;
-	color:White;
-}
-.instagram:hover {
-	background-color:White;
-	color:Pink;
-}
-.reddit{
-	background-color:Red;
-	color:White;
-}
-.reddit:hover {
-	background-color:White;
-	color:Red;
-}
-.entropiaadvertisinghub{
-	background-color:Black;
-	color:White;
-}
-.entropiaadvertisinghub:hover {
-	background-color:White;
-	color:Black;
-}
 hr{
 	background-color:grey;
 	border-color: yellow;
