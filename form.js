@@ -38,4 +38,4 @@ var value = document.getElementById('sample').value;
 alert(value);
 }
 
-<script src="form.js"></script>
+// <script src="form.js"></script>
