@@ -65,3 +65,15 @@ button:hover {
 	background-color:White;
 	color:Green;
 }
+.SM{
+	height:50px;
+	width:50px;
+}
+.gofundme{
+	background-color:Green;
+	color:White;
+}
+.gofundme:hover{
+	background-color:White;
+	color:Green;
+}

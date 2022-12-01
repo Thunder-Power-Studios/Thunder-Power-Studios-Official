@@ -3,7 +3,7 @@ body {
   color:yellow;
 }
 h3 {
-  	text-align: ;
+  	text-align:;
 }
 p {
   	font-family:source code pro;
@@ -20,4 +20,8 @@ hr{
 }
 hr.mini{
 	width:75%
+}
+div{
+	position: relative;
+	float: right;
 }
