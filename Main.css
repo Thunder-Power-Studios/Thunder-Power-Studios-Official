@@ -21,7 +21,8 @@ hr{
 hr.mini{
 	width:75%
 }
-div{
-	position: relative;
-	float: right;
+.headimage{
+    height:150px; 
+	width:337.5px;
+	margin-top:50px;
 }
