@@ -6,20 +6,20 @@ h3 {
   	text-align:;
 }
 p {
-  	font-family:source code pro;
+  	font-family:"source code pro";
 }
 hr{
 	background-color:grey;
 	border-color: yellow;
-	height: 2px;
-	margin-bottom: 7px;
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: 9px;
-	border-width: 4px;
+	height:2px;
+	margin-bottom:7px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:9px;
+	border-width:4px;
 }
 hr.mini{
-	width:75%
+	width:75%;
 }
 .headimage{
     height:150px; 
