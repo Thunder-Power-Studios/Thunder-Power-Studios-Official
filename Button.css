@@ -78,3 +78,11 @@ button:hover {
 	background-color:White;
 	color:Green;
 }
+.threads{
+	background-color:black;
+	color:White;
+}
+.threads:hover{
+	background-color:White;
+	color:black;
+}
