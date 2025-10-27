@@ -1,9 +1,12 @@
 body {
   background-color:grey;
   color:yellow;
+  text-align:center;
 }
-h3 {
-  	text-align:;
+.heroimage{
+    height:150px; 
+	width:337.5px;
+	margin-top:50px;
 }
 p {
   	font-family:"source code pro";
@@ -20,9 +23,4 @@ hr{
 }
 hr.mini{
 	width:75%;
-}
-.headimage{
-    height:150px; 
-	width:337.5px;
-	margin-top:50px;
 }
